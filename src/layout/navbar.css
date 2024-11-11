@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    width: 50px;
+    margin-left: 20px;
+
+}
+
+.bodyColur{
+    background-color: #F48FB1;
+}
+
+.babababycenter{
+    margin-left: 450px;
+    font-size: x-large;
+    font-weight: 700;
+}
+
+.babybaba{
+    font-size: x-large;
+    font-weight: 700;
+}
+
+@media only screen and (max-width: 991px) {
+    .babababycenter{
+        margin-left: 0px;
+    }
+}
